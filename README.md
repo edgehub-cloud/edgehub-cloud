@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Edge
 Working constantly on New projects, mostly doing backend development and Creating Development Pipeless
 
-Skills: NextJS /  JS / HTML / CSS
+Skills: go /  JS / HTML / CSS
 
 - 🔭 I’m currently working on Streaming site 
 - 🌱 I’m currently learning GoLang 
