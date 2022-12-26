@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Edge
-Working constantly on New projects, mostly doing backend development and Creating Development Pipeless
-
+Working constantly on New projects, mostly doing backend development and Creating Development Pipelines. 
 Skills: go /  JS / HTML / CSS
 
 - 🔭 I’m currently working on Streaming site 
